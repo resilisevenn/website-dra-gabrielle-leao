@@ -29,7 +29,7 @@ export const Footer = () => {
               <MessageCircle size={16} className="text-primary" />
             </a>
           </div>
-          <p className="mt-4 text-xs text-muted-foreground">Brasília-DF · Brasil</p>
+          <p className="mt-4 text-xs text-muted-foreground">Águas Claras e Taguatinga - DF · Brasil</p>
         </div>
       </div>
       <div className="container mt-10 pt-6 border-t border-primary/10 text-xs text-primary/60 flex flex-col md:flex-row justify-between gap-2">

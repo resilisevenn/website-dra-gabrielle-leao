@@ -29,7 +29,7 @@ export const InstagramFeed = () => {
               target="_blank" rel="noreferrer"
               className="relative group aspect-square overflow-hidden rounded-xl border border-border shadow-card-luxe"
             >
-              <img src={src} alt={`Post ${i+1}`} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
+              <img src={src} alt={`Publicação do Instagram da Dra. Gabrielle Leão sobre odontologia estética`} className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" />
               <div className="absolute inset-0 bg-foreground/0 group-hover:bg-foreground/40 transition-all flex items-center justify-center">
                 <Instagram className="text-card opacity-0 group-hover:opacity-100 transition-opacity" size={32} />
               </div>
